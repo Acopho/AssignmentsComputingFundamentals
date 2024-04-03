@@ -17,3 +17,6 @@ cd AssignmentsComputingFundamentals
 ```
 python Assignment3/dynamic_string_edit.py
 ```
+```
+python Assignment4/quick_ksort.py
+```
